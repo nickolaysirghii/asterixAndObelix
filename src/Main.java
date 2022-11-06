@@ -11,7 +11,7 @@ public class Main {
         int asterix   =   3;
         int obelix    =   ( asterix  /   2);
 
-        boolean potion =(asterix   +   obelix  >= 5);
+        boolean potion =(asterix   +   obelix  > 5);
         System.out.println(potion);
 
 
